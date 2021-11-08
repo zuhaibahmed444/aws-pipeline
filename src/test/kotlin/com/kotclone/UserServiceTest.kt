@@ -21,7 +21,7 @@ class UserServiceTest {
     @Mock
     val userRepository : UserRepository?=null
 
-    val user: User = User("zuhaibahmednotr","fdhgshg","zuhajj","gysgygs","zuhaib@email","5666" )
+    val user: User = User("zuhaibahmedxyz","fdhgshg","zuhajj","gysgygs","zuhaib@email","5666" )
 
     @Test
     fun saveUserTest() {
